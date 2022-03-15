@@ -8,7 +8,7 @@ And now it is upgraded to python3 version.
 # Install
 
     pip3 install pysocks
-    git clone https://github.com/Leeon123/CC-attack.git
+    git clone https://github.com/white-hackers/ddosc.git
     cd CC-attack
 
 # Usage
